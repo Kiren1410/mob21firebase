@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#EAEAEAEA</color>
+    <color name="error">#FF0000</color>
+    <color name="blue">#3F51B5</color>
+    <color name="bossanova">#443266</color>
+    <color name="periwinkle_gray">#C3C3E5</color>
+    <color name="titan_white">#F1F0FF</color>
+    <color name="violet">#8C489F</color>
+</resources>
